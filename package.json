@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "bulife",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "lint-fix": "eslint . --ext .ts --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "Charles Lana",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^13.1.1"
